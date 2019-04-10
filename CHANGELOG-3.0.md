@@ -1,5 +1,13 @@
 # 3.0.x
 
+## Bug Fixes
+
+- PIM-8270: Update export jobs after a change on a channel category
+
+## BC breaks
+
+- Service `pim_catalog.saver.channel` class has been changed to `Akeneo\Channel\Bundle\Doctrine\Saver\ChannelSaver`.
+
 # 3.0.12 (2019-04-09)
 
 # Bug fixes
