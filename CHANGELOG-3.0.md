@@ -1,5 +1,7 @@
 # 3.0.x
 
+- PIM-8285: allow reordering of some datagrid columns by forcing the presence of column.code if not provided by the backend
+
 # 3.0.13 (2019-04-15)
 
 # Bug fixes
